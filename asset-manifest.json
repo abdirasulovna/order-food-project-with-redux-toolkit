@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/order-food-project-with-redux-toolkit/static/css/main.772f443c.css",
+    "main.js": "/order-food-project-with-redux-toolkit/static/js/main.157d595d.js",
+    "static/media/summary.jpg": "/order-food-project-with-redux-toolkit/static/media/summary.331fba0f3f863ab18700.jpg",
+    "static/media/basket-icon.svg": "/order-food-project-with-redux-toolkit/static/media/basket-icon.1a412f8872e356c51f6e3f4624db05c5.svg",
+    "index.html": "/order-food-project-with-redux-toolkit/index.html",
+    "static/media/plus-icons.svg": "/order-food-project-with-redux-toolkit/static/media/plus-icons.05d9eeabf7804fabf3526a8f976f9d1f.svg",
+    "static/media/increase.svg": "/order-food-project-with-redux-toolkit/static/media/increase.02872023d5c2327766f84b512bedce1c.svg",
+    "static/media/decrease.svg": "/order-food-project-with-redux-toolkit/static/media/decrease.4ea153484d6294071ed555693e954e01.svg",
+    "main.772f443c.css.map": "/order-food-project-with-redux-toolkit/static/css/main.772f443c.css.map",
+    "main.157d595d.js.map": "/order-food-project-with-redux-toolkit/static/js/main.157d595d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.772f443c.css",
+    "static/js/main.157d595d.js"
+  ]
+}
